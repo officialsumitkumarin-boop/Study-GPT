@@ -1,6 +1,6 @@
 <div align="center">
 
-![Study GPT Banner](https://i.ibb.co/7b7gLHP/study-gpt-banner.gif)
+![Study GPT Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B2c2Njd21ycjgxa3lvdHBsZjF0d295a2k1amVzZXIzZHYyZnM5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif)
 
 # 🌐 Study GPT  
 ### 🧠 Learn Smarter, Not Harder — Your Personal AI Study Partner  
