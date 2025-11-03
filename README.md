@@ -63,7 +63,7 @@ From explaining tough subjects to writing essays — Study GPT makes studying fa
 
 📸 Instagram: [@sumitkumaronline](https://instagram.com/sumitkumaronline)  
 🐦 X (Twitter): [@TEAMSANKI](https://x.com/TEAMSANKI)  
-📞 Telegram: [@AboutSanki](https://t.me/AboutSanki)
+📞 Telegram: [@ll_SANKI_II](https://t.me/ll_SANKI_II)
 
 ---
 
@@ -73,7 +73,7 @@ From explaining tough subjects to writing essays — Study GPT makes studying fa
   
 > “Turning ideas into code, and code into experiences.”  
 
-Made with ❤️ by **Sanki**
+Made with ❤️ by **SUMIT KUMAR**
 
 ![AI Wave](https://i.ibb.co/2Nqf4Zh/ai-line.gif)
 
